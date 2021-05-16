@@ -17,3 +17,4 @@ Click on 'Compare' in the header to go to the comparison page. This page shows l
 - Websocket failure handling / fallback could be added.
 - I would use typescript for a production project for better type safety.
 - We could give option to pin the cities that user is interested in.
+- It took approx 5 hours for the project to finish.

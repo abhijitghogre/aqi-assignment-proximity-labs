@@ -36,7 +36,7 @@ function App() {
   };
 
   useEffect(() => {
-    const socket = new WebSocket('ws://city-ws.herokuapp.com');
+    const socket = new WebSocket('wss://city-ws.herokuapp.com');
     socket.onmessage = function(event) {
       updateData(event.data);
     };
