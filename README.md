@@ -18,3 +18,4 @@ Click on 'Compare' in the header to go to the comparison page. This page shows l
 - I would use typescript for a production project for better type safety.
 - We could give option to pin the cities that user is interested in.
 - It took approx 5 hours for the project to finish.
+- App is hosted on heroku with a pipeline. Pushing to master deploys the app automatically.
